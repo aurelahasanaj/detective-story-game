@@ -1,0 +1,14 @@
+com\detective\game\ui\EvidenceCell.class
+com\detective\game\model\Statement.class
+com\detective\game\ui\Sfx.class
+com\detective\game\ui\CardCell.class
+com\detective\game\model\GameState.class
+com\detective\game\DetectiveStoryGameApp.class
+com\detective\game\ui\IntroView$StartHandler.class
+com\detective\game\model\Evidence.class
+com\detective\game\ui\SuspectCell.class
+com\detective\game\model\Location.class
+com\detective\game\ui\IntroView.class
+com\detective\game\model\Suspect.class
+com\detective\game\ui\GameView.class
+com\detective\game\model\GameData.class

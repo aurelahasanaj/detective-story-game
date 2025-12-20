@@ -1,0 +1,20 @@
+.root { -fx-font-family: "Segoe UI"; -fx-base: #141820; -fx-background: #0f1117; -fx-text-fill: #e8eefc; }
+.label { -fx-text-fill: #e8eefc; }
+.text-area { -fx-control-inner-background: #0e1320; -fx-text-fill: #e8eefc; -fx-highlight-fill: #2a5bd7; -fx-highlight-text-fill: white; }
+.button { -fx-background-radius: 10; -fx-padding: 8 14; }
+.btn-primary { -fx-background-color: #3b6cff; -fx-text-fill: white; -fx-font-weight: 700; }
+.btn-ghost { -fx-background-color: rgba(255,255,255,0.07); -fx-text-fill: #e8eefc; }
+.header-card { -fx-background-color: rgba(255,255,255,0.06); -fx-background-radius: 16; -fx-padding: 14; -fx-border-color: rgba(255,255,255,0.08); -fx-border-radius: 16; }
+.hud { -fx-font-size: 15px; -fx-font-weight: 700; }
+.title-label { -fx-font-size: 26px; -fx-font-weight: 800; }
+.subtle { -fx-text-fill: rgba(232,238,252,0.75); }
+.progress-bar { -fx-accent: #3b6cff; }
+.overlay { -fx-background-color: rgba(0,0,0,0.55); }
+.overlay-card { -fx-background-color: #0e1320; -fx-background-radius: 18; -fx-padding: 18; -fx-border-color: rgba(255,255,255,0.12); -fx-border-radius: 18; }
+.big-result { -fx-font-size: 26px; -fx-font-weight: 900; }
+.badge-cold { -fx-background-color: rgba(80,140,255,0.18); -fx-text-fill: #9dc0ff; -fx-background-radius: 12; -fx-padding: 4 10; -fx-font-weight: 800; }
+.badge-neutral { -fx-background-color: rgba(255,255,255,0.12); -fx-text-fill: #e8eefc; -fx-background-radius: 12; -fx-padding: 4 10; -fx-font-weight: 800; }
+.badge-hot { -fx-background-color: rgba(255,90,90,0.22); -fx-text-fill: #ffb3b3; -fx-background-radius: 12; -fx-padding: 4 10; -fx-font-weight: 800; }
+.tab-pane .tab-header-area { -fx-padding: 6 6 0 6; }
+.tab-pane .tab { -fx-background-color: rgba(255,255,255,0.08); }
+.tab-pane .tab:selected { -fx-background-color: rgba(59,108,255,0.25); }
