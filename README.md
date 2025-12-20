@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🕵️ Detective Story Game — FINAL COMPLETE (JavaFX + Maven)
 
 ✅ RUN (IntelliJ)
@@ -15,3 +16,7 @@ HOW TO PLAY
 - Accuse tab: choose suspect and accuse when ready.
 
 If you see “mvn is not recognized”, install Maven or use IntelliJ Maven run.
+=======
+# detective-story-game
+JavaFX detective investigation game – The Missing Manuscript
+>>>>>>> 068859cc0eb7edaf5de3da4b1ad74c5e9d6c06d7
